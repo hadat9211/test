@@ -5,5 +5,5 @@ const reverseText = (str) => {
 console.log(reverseText('Toi la hai2'));
 console.log(reverseText('Toi la Tuan'));
 
-console.log(reverseText('sdafsdafds'));
+console.log(reverseText('asdfsdafsdf'));
 // sdfasdfasfsdf 7:57PM
