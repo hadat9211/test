@@ -4,4 +4,4 @@ const reverseText = (str) => {
 console.log(reverseText('Tuan'));
 
 console.log(reverseText('Dat'));
-// sdfasdfasfsdf
+// sdfasdfasfsdf 7:57PM
